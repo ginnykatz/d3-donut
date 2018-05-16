@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de401794-2dc4-40e2-923a-bb8ae5cc9d9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/donut-chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+    <list default="true" id="de401794-2dc4-40e2-923a-bb8ae5cc9d9d" name="Default" comment="sample img for readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,11 +30,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index2.html">
+      <file leaf-file-name="svgindex.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/svgindex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="85" lean-forward="true" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
               <folding>
                 <element signature="n#style#0;n#rect#0;n#g#0;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#0;n#g#1;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -77,6 +75,7 @@
         <option value="$PROJECT_DIR$/svg.index" />
         <option value="$PROJECT_DIR$/donut-chart.svg" />
         <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/svgindex.html" />
       </list>
     </option>
   </component>
@@ -259,7 +258,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526427656564</updated>
-      <workItem from="1526427658123" duration="7958000" />
+      <workItem from="1526427658123" duration="8462000" />
     </task>
     <task id="LOCAL-00001" summary="assets">
       <created>1526436899368</created>
@@ -296,15 +295,28 @@
       <option name="project" value="LOCAL" />
       <updated>1526437654929</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="svg sized and svgindex.html created.">
+      <created>1526438713767</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526438713767</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sample img for readme">
+      <created>1526439074731</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526439074731</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7958000" />
+    <option name="totallyTimeSpent" value="8462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -333,7 +345,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="assets" />
+    <MESSAGE value="svg sized and svgindex.html created." />
+    <MESSAGE value="sample img for readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="sample img for readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -368,10 +382,10 @@
     <entry file="file://$PROJECT_DIR$/donut-chart.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
+    <entry file="file://$PROJECT_DIR$/svgindex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="153">
+          <caret line="9" column="85" lean-forward="true" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
           <folding>
             <element signature="n#style#0;n#rect#0;n#g#0;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#0;n#g#1;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
