@@ -10,6 +10,5 @@ Donut Pug: Pixabay.com
 
 
 
+![donut pug](assets\donut-pug.png)
 
-
-![Donut Pug](C:\Users\katzv\Downloads\donut-pug.png)
